@@ -1,3 +1,0 @@
-Arun,101,Standard
-Priya,201,Deluxe
-Rahul,301,Suite
